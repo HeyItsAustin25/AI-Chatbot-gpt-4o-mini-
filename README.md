@@ -3,7 +3,7 @@
 **SETUP INSTRUCTIONS**
 
 1) Make sure prerequisites are installed:
-	Node.js 18+
+	\n Node.js 18+
 	npm 9+
 	Angular CLI 17+
 
